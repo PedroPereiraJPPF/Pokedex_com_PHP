@@ -1,0 +1,26 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(94, 0, 0);
+}
+.espaço{
+    min-width: 200px;
+    max-width: 300px;
+    min-height: 200px;
+    max-height: 300px;
+    margin: 20px auto 0 auto;
+    background-color: rgb(226, 226, 226);
+}
+h6{
+    text-align: center;
+    margin: 0px;
+}
+img{
+    display: block;
+    margin: 0 auto 0 auto;
+}
+P{
+    text-align: center;
+    font-size: 15px;
+    margin:0px;
+}
